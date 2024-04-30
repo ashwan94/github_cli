@@ -1,1 +1,4 @@
 뉴진스 bubble gum
+
+
+reset 배운 후 revert 시도해보기
