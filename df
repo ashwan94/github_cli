@@ -1,0 +1,37 @@
+[33mcommit 22c1af0004e40572d20db96bbd4e85522612bd4a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mBranch1[m[33m)[m
+Author: AN <ckd04p@gmail.com>
+Date:   Tue Apr 30 14:59:07 2024 +0900
+
+    Branch1 에서 해보는 commit
+
+[33mcommit 490208d890fcf657aa6973e76126f0b32d31e8f0[m[33m ([m[1;32mmaster[m[33m)[m
+Author: AN <ckd04p@gmail.com>
+Date:   Tue Apr 30 14:53:32 2024 +0900
+
+    git 복습
+
+[33mcommit 47c65c512414c69244a52475c2429df8f7ebca86[m
+Author: AN <ckd04p@gmail.com>
+Date:   Tue Apr 30 14:25:23 2024 +0900
+
+    Revert "reset 후 진행하는 revert"
+    
+    This reverts commit a09fcc90b17d637d6d52c33505b70ef3fd005c66.
+
+[33mcommit 2c4f57b7c800458759382d525456710b8874719a[m
+Author: AN <ckd04p@gmail.com>
+Date:   Tue Apr 30 14:22:18 2024 +0900
+
+    b라는 파일이 들어왔다!
+
+[33mcommit a09fcc90b17d637d6d52c33505b70ef3fd005c66[m
+Author: AN <ckd04p@gmail.com>
+Date:   Tue Apr 30 14:17:41 2024 +0900
+
+    reset 후 진행하는 revert
+
+[33mcommit ed0ca7f85498817a3675071a33e64b82f83c4808[m
+Author: AN <ckd04p@gmail.com>
+Date:   Tue Apr 30 14:05:30 2024 +0900
+
+    첫 커밋
